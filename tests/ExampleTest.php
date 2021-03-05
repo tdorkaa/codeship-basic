@@ -5,7 +5,7 @@ final class ExampleTest extends TestCase
 {
     public function testExample(): void
     {
-        $this->assertEquals(true, false);
+        $this->assertEquals(true, true);
     }
 
     public function testExample2(): void
